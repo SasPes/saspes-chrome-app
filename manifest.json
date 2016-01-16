@@ -6,7 +6,7 @@
 		  "http://www.saspes.com/"
 		],
 		"launch": {
-		  "web_url": "http://saspes.com/%D0%B1%D0%BB%D0%BE%D0%B3/"
+		  "web_url": "http://saspes.com/en/?p=189"
 		}
 	},
     "icons": {
@@ -14,5 +14,5 @@
     },
 	"author": "SasPes",
     "manifest_version": 2,
-    "version": "1.0"
+    "version": "1.1"
 }
